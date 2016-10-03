@@ -52,3 +52,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/mistral/
 - Update to 9.3.0
 
 
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/puppet-mistral/commit/?id=3738e9542f39bbf7619e6ab1e5e9c7294b2a7228
