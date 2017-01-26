@@ -1,6 +1,6 @@
 # UUID                                  	Group Name
 #
 6154dd9396aa1613a1a5b45a5f4eb5195f7e16c4	puppet/puppet-mistral-distgit-ptl
-b25fc49a184f29c5ebe76f4c28d1f9ef41027a85	puppet/puppet-mistral-distgit-core
 63673ea7f2ae6a5666566b1ea9f14e473d00f5a9	rdo-core
+b25fc49a184f29c5ebe76f4c28d1f9ef41027a85	puppet/puppet-mistral-distgit-core
 global:Registered-Users                 	Registered Users
