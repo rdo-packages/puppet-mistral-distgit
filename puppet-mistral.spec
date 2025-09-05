@@ -64,3 +64,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/mistral/
 %changelog
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-mistral/commit/91af6d5b43c371706098a54d0322b808f96e7d5a
